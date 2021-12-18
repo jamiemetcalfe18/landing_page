@@ -1,2 +1,4 @@
 # odin_landing_page
-the landing page project from the odin project
+The landing page project from the odin project (https://www.theodinproject.com/)!
+
+This project is to help get an idea for what a website's landing page should be like, as well as including several css elements and understanding flexbox.
