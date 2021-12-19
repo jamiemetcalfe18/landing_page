@@ -1,0 +1,21 @@
+/** hero text stuff **/
+.logotxt {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.logo2 {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.hero2 {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: extra-bold;
+}
