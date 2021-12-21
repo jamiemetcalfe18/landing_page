@@ -3,40 +3,16 @@ body, header, nav, main, footer, img, h1, ul, li, h2 {
   border: 0;
   margin: 0;
   padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-/** hero text stuff **/
-.logotxt {
-    font-size: 24px;
-    color: #F9FAF8;
-}
-
-.logo2 {
-    font-size: 18px;
-    color: #F9FAF8;
-}
-
-.hero2 {
-    font-size: 18px;
-    color: #F9FAF8;
-}
-
-.hero {
-    font-size: 48px;
-    color: #F9FAF8;
-    font-weight: extra-bold;
+/** hero text and nav bar **/
+nav {
+  color: #fff;
+  background: #1f2937;
 }
 
 a {
-  color: #FFFFFF;
+  color: #fff;
   text-decoration: none;
-  margin-left: auto;
-  
-}
-/** first section **/
-nav {
-  background-color: #1f2937;
-}
-.section {
-  background-color: #1f2937;
 }
