@@ -10,9 +10,22 @@ body, header, nav, main, footer, img, h1, ul, li, h2 {
 nav {
   color: #fff;
   background: #1f2937;
+  display: flex;
+  justify-content:flex-end;
+}
+
+ul {
+  list-style: none;
 }
 
 a {
   color: #fff;
   text-decoration: none;
 }
+
+.herotxt {
+  margin-right: auto;
+}
+
+/** Section 2  **/
+
