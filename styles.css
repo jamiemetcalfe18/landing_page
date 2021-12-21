@@ -27,11 +27,16 @@ body, header, nav, main, footer, img, h1, ul, li, h2 {
     font-weight: extra-bold;
 }
 
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+  margin-left: auto;
+  
+}
 /** first section **/
 nav {
   background-color: #1f2937;
-  margin: auto auto;
 }
-.container {
+.section {
   background-color: #1f2937;
 }
