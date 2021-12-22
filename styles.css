@@ -6,6 +6,10 @@ body, header, nav, main, footer, img, h1, ul, li, h2 {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+html {
+  box-sizing: border-box;
+}
+
 /** hero text and nav bar **/
 nav {
   color: #fff;
@@ -13,10 +17,16 @@ nav {
   padding: 16px;
   display: flex;
   justify-content: space-between;
+  padding-left:100px;
+  padding-right:100px;
 }
 
 ul {
   list-style: none;
+}
+
+li {
+  padding-right: 50px;
 }
 
 a {
@@ -59,3 +69,9 @@ button {
 
 /** Section 3 **/
 
+.info img {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
