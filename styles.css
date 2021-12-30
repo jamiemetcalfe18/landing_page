@@ -36,9 +36,11 @@ a {
 
 .title {
   margin-right: 50px;
-  
 }
 
+.spacething {
+  padding-bottom: 10px;
+}
 
 /** Section 1  **/
 #s1 {
@@ -80,6 +82,12 @@ button {
   border-width: 4px;
 }
 
+button:hover {
+  border: 2px solid #3882F6;
+  background-color: #71d8f5;
+  cursor: pointer;
+}
+
 /** Section 2 **/
 
 
@@ -117,21 +125,36 @@ button {
   background: #e5e7eb;
 }
 
+.quotainer {
+  max-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
 .quote {
   font-size: 36px;
-  font-style: light-italic;
+  font-style: italic;
   color: #1f2937;
+  justify-content: center;
 }
 
 .quoted {
   font-size: 36px;
+  font-weight: bold;
   color: #1f2937;
+  padding-left: 50px;
+  justify-content: space-evenly;
 }
 
 /** section 4 **/
 
 section {
   padding: 75px;
+}
+
+.b2 {
+  border: 2px solid #fff;
 }
 
 .s4 {
