@@ -8,7 +8,3 @@ This project is to help get an idea for what a website's landing page should be 
 
 ## What I Learned
 I learned and got a lot more confident with flexbox and understanding the css box model thanks to this project.
-
-## Modifications:
--Started on: 12/18/2021
--Last modified: 12/30/2021
