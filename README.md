@@ -1,5 +1,4 @@
-# odin_landing_page
-The landing page project from the odin project (https://www.theodinproject.com/)!
+# landing_page
 Live preview: https://jamiemetcalfe18.github.io/odin_landing_page/
 
 
